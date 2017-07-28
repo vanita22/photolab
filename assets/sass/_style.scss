@@ -1,0 +1,124 @@
+.navbar{
+	background-color: transparent;
+	text-align: center;
+}
+
+.collapse{
+	display: inline-flex;
+	color: white;
+	li{
+		margin-left:120px;
+		a{
+			color: white;
+			font-weight: bold;
+		}
+	}
+}
+
+button{
+	background-color: lightgreen;
+	width: auto;
+	height: auto;
+	padding: 10px;
+	align-content: center;
+	color: white;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+.box{
+	background-image: url(../img/bg1.jpg);	
+	background-repeat: no-repeat;
+	background-position: cover;
+	height: 100vh;
+	h1{
+		color: white;
+		font-size: 70px;
+		margin-top: 20%;
+	}
+	h4{
+		color: white;
+		font-size: 20px;
+	}
+}
+
+.box2{
+	padding: 30px;
+	background-color: lightgrey;
+	h2{
+		color: lightgreen;
+	}
+	img{
+		height: 65vh;
+	}
+}
+
+.box3{
+	padding: 30px;
+	h2{
+		color: lightgreen;
+	}
+	img{
+		height: 65vh;
+	}
+}
+
+.box4{
+	padding: 30px;
+	background-color: lightgrey;
+	h2{
+		margin-top: 8vh;
+	}	;
+}
+
+.box5{
+	background-image: url(../img/bg2.jpg);	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 80vh;
+	h2{
+		color: white;
+		font-weight: bold;
+		margin-top: 40vh;
+	}
+	.input-group{
+		input{
+			width: 300px;
+			margin-left: 100px;
+		}
+		span{
+			float: left;
+			height: 32px;
+			padding: 15px;
+			font-size: 15px;
+			background-color: lightgreen;
+			color: white
+		}
+	}
+}
+
+.box6{
+	padding: 40px;
+	background-color: lightgrey;
+	button{
+		margin-right: 20px;
+	}		
+}
+
+footer{
+	padding: 20px;
+	h3{
+		display: inline-flex;
+		font-size: 15px;
+		margin-right: 10px;
+	}
+	h2{
+		display: inline-flex;
+		font-size: 15px;
+		border-left: 3px solid lightgreen;
+		border-right: 3px solid lightgreen;
+		padding: 15px;
+		margin-right:10px;
+	}
+	
+}
