@@ -1,0 +1,17 @@
+.navbar{
+	background-color: transparent;
+}
+
+.collapse{
+	display: inline-flex;
+	color: white;
+}
+
+.box{
+	background-image: url(../assets/img/bg1.jpg);
+	background-repeat: no-repeat;
+	background-position: cover;
+	text-align: center;
+	align-content: center;
+	justify-content: center;
+}
